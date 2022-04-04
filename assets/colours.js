@@ -1,12 +1,12 @@
 const colours = [
-  "C9F0D6",
-  "D5E0AA",
-  "C2C9EE",
-  "B8DDCE",
-  "F0E6C2",
-  "FED9CC",
-  "ECC2D1",
-  "CDBADB",
-  "B6D1E5",
-  "BAEDF2"
+  "ffc0cb",
+  "ffe4e1",
+  "ffb6c1",
+  "ff69b4",
+  "db7093",
+  "ff1493",
+  "ffe4e1",
+  "fddde6",
+  "ffddf4",
+  "fadadd"
 ]
